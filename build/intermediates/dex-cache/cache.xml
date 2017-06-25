@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/yulin/research/workspace/copoch/android-app-bootstrap/bootstrap/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="/Users/yulin/research/workspace/copoch/android-app-bootstrap/bootstrap/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_f1caaaf5652d5739fd51df3d4606adee3c49555a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/yulin/research/workspace/copoch/android-app-bootstrap/bootstrap/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.0"
+        sha1="e77d37a4c792dc51dfcd270a467828cb132161bf">
+        <dex dex="/Users/yulin/research/workspace/copoch/android-app-bootstrap/bootstrap/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_4a790f94a593d2d1ed410caa6e43ed6e4574c0a0/classes.dex" />
+    </item>
+
+</items>
